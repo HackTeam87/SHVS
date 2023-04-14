@@ -3,6 +3,8 @@
 
 ## Обзор
 Библиотека позволяет работать с устройствами через единый интерфейс - голосовой помошник. 
+![alt text](relative%20https://github.com/HackTeam87/SHVS/blob/main/img/relay2.jpg)
+
 
 ### Поддерживаемые интерфейсы 
 * WEB
@@ -30,4 +32,3 @@ python3 app.py
 * **modules/experience.py** - содержит список функций для работы с API
 * **app.py** - логика работы голосового помошника
 
-![alt text](https://github.com/HackTeam87/SHVS/blob/main/img/relay2.jpg)
