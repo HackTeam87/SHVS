@@ -30,3 +30,4 @@ python3 app.py
 * **modules/experience.py** - содержит список функций для работы с API
 * **app.py** - логика работы голосового помошника
 
+![alt text](https://github.com/HackTeam87/SHVS/blob/main/img/relay2.jpg)
