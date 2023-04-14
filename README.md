@@ -4,7 +4,7 @@
 ## Обзор
 Библиотека позволяет работать с устройствами через единый интерфейс - голосовой помошник. 
 
-![alt text](https://github.com/HackTeam87/SHVS/blob/main/img/relay2.jpg)
+![alt text](https://github.com/HackTeam87/SHVS/blob/main/img/relay2.jpg =250x250)
 
 ### Поддерживаемые интерфейсы 
 * WEB
