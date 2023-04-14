@@ -20,7 +20,7 @@ Python >= 3.8
 Модули Python :vosk, sounddevice, pyttsx3, scikit-learn, requests, pyyaml
 
 
-### Подключение к вашему проекту
+### Подключение
 pip install -r requirements.txt
 
 ### Как использовать
