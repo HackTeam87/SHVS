@@ -1,9 +1,4 @@
 # SHVS
-smart home voice system
-
-
-
-# Switcher-Core
 ### smart home voice system
 
 ## Обзор
