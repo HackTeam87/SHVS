@@ -1,10 +1,9 @@
 # SHVS
 ### smart home voice system
+<img src="https://github.com/HackTeam87/SHVS/blob/main/img/relay2.jpg" width="100">
 
 ## Обзор
 Библиотека позволяет работать с устройствами через единый интерфейс - голосовой помошник. 
-
-<img src="https://github.com/HackTeam87/SHVS/blob/main/img/relay2.jpg" width="55">
 
 ### Поддерживаемые интерфейсы 
 * WEB
