@@ -1,7 +1,7 @@
 # SHVS
 ### Smart Home Voice System
 ## Обзор
-Библиотека позволяет работать с устройствами через единый интерфейс - голосовой помошник. 
+Приложение устанавливается на любую операционную систему поддерживающую Python >= 3.8 позволяет работать с устройствами через единый интерфейс - голосовой помошник. 
 
 <img src="https://github.com/HackTeam87/SHVS/blob/main/img/relay2.jpg" width="300">      <img src="https://github.com/HackTeam87/SHVS/blob/main/img/relay1.jpg" width="450">
 
@@ -54,4 +54,10 @@ python3 app.py
 #### Основные файлы и каталоги
 * **modules/experience.py** - содержит список функций для работы с API
 * **app.py** - логика работы голосового помошника
+
+#### Используемые источники
+* Для Шилд реле:
+  + https://www.waveshare.com/wiki/RPi_Relay_Board
+  + https://arduino.ua/ru/prod2535-shild-3-h-rele-dlya-raspberry-pi
+  + https://ph0en1x.net/106-rpi-gpio-installation-working-with-inputs-outputs-interrupts.html
 
