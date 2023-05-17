@@ -1,8 +1,9 @@
 # SHVS
 ### Smart Home Voice System
-<img src="https://github.com/HackTeam87/SHVS/blob/main/img/relay2.jpg" width="300">      <img src="https://github.com/HackTeam87/SHVS/blob/main/img/relay1.jpg" width="450">
 ## Обзор
 Библиотека позволяет работать с устройствами через единый интерфейс - голосовой помошник. 
+
+<img src="https://github.com/HackTeam87/SHVS/blob/main/img/relay2.jpg" width="300">      <img src="https://github.com/HackTeam87/SHVS/blob/main/img/relay1.jpg" width="450">
 
 ### Smart Home Voice System
 <img src="https://github.com/HackTeam87/SHVS/blob/main/img/RPi-Relay-Board-intro.jpg" width="300">      <img src="https://github.com/HackTeam87/SHVS/blob/main/img/RPi-Relay-Board-4.gif" width="450">
