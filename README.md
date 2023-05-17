@@ -1,4 +1,8 @@
 # SHVS
+### Smart Home Voice System
+<img src="https://github.com/HackTeam87/SHVS/blob/main/img/relay2.jpg" width="300">      <img src="https://github.com/HackTeam87/SHVS/blob/main/img/relay1.jpg" width="450">
+## Обзор
+Библиотека позволяет работать с устройствами через единый интерфейс - голосовой помошник. 
 
 ### Smart Home Voice System
 <img src="https://github.com/HackTeam87/SHVS/blob/main/img/RPi-Relay-Board-intro.jpg" width="300">      <img src="https://github.com/HackTeam87/SHVS/blob/main/img/RPi-Relay-Board-4.gif" width="450">
@@ -13,11 +17,7 @@
 - [x] Перемычки управления реле с возможностью подключения внешнего сигнала управления
 - [x] Поддержка средствами разработки в wiringPi, WebioPi, shell, python и bcm2835
 
-### Smart Home Voice System
-<img src="https://github.com/HackTeam87/SHVS/blob/main/img/relay2.jpg" width="300">      <img src="https://github.com/HackTeam87/SHVS/blob/main/img/relay1.jpg" width="450">
 
-## Обзор
-Библиотека позволяет работать с устройствами через единый интерфейс - голосовой помошник. 
 
 ### Поддерживаемые интерфейсы 
 * WEB
