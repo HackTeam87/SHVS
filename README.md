@@ -1,4 +1,18 @@
 # SHVS
+
+### Smart Home Voice System
+<img src="https://github.com/HackTeam87/SHVS/blob/main/img/RPi-Relay-Board-intro.jpg" width="300">      <img src="https://github.com/HackTeam87/SHVS/blob/main/img/RPi-Relay-Board-4.gif" width="450">
+### Шилд реле для Raspberry Pi
+позволяет программно управлять мощной нагрузкой из пользовательской программы на Raspberry. На плате установлены три реле с максимальным током коммутации до 10А и напряжением до 250В. 
+Для индикации состояния статуса реле в модуле предусмотрены светодиоды.
+### Особенности шилда реле:
+- [x] Совместимость со всеми моделями Raspberry Pi
+- [x] Качественные реле с коммутацией нагрузки 250VAC/5A, 30VDC/5A
+- [x] Оптоизоляция для обеспечения качественной высоковольтной изоляции
+- [x] Встроенные индикаторы состояния реле
+- [x] Перемычки управления реле с возможностью подключения внешнего сигнала управления
+- [x] Поддержка средствами разработки в wiringPi, WebioPi, shell, python и bcm2835
+
 ### Smart Home Voice System
 <img src="https://github.com/HackTeam87/SHVS/blob/main/img/relay2.jpg" width="300">      <img src="https://github.com/HackTeam87/SHVS/blob/main/img/relay1.jpg" width="450">
 
