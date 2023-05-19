@@ -9,18 +9,18 @@ import subprocess
 def switch(group):
     if group == "wintele":
         return [{
-		'user': 'TrialRooT',
-        'password':'GrinWin2021'
+		'user': 'login',
+        'password':'pass'
 		}]
     elif group == "golden":
         return [{
 		'user': 'grin',
-        'password':'grin!1306!'
+        'password':'pass'
 		}]
     elif group == "golden_server":
         return [{
-		'user': 'grin',
-        'password':'fuckgolden1306!'
+		'user': 'login',
+        'password':'pass'
 		}]    
    
 
